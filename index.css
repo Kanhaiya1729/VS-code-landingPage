@@ -49,12 +49,12 @@ nav a{
     text-decoration:none;
 }
 
-.navbar{
+/* .navbar{
     display:flex;
     justify-content:space-between;
     align-items:center;
     padding:10px 100px ;
-}
+} */
 
 .logo-nav{
     display:flex;
@@ -88,6 +88,7 @@ nav a{
     display: flex;
     gap: 10px;
     align-items: center;
+   
 }
 .images{
     display: flex;
